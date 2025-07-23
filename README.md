@@ -2,6 +2,13 @@
 
 **AI Travel Assistant** is a Python-based project that helps users plan trips using conversational AI. It answers travel-related queries, recommends destinations, and creates custom itineraries based on user input. The app runs locally and uses LangChain and Groq for fast, intelligent responses.
 
+## Integration of Agentic AI using MCP for multiple services provider
+
+![pic2](https://github.com/user-attachments/assets/8f2572d7-4257-4a7f-b837-8be5e2c74bbe)
+
+
+<img width="872" height="378" alt="pic1" src="https://github.com/user-attachments/assets/9f9cc039-f80a-467d-a63b-a497d3807e0a" />
+
 ## ✨ Features
 
 - 🌍 Travel question answering
